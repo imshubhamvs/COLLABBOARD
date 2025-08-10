@@ -1,8 +1,4 @@
-Alright — here’s the **updated `README.md` for CollabBoard** with your **gzip stroke storage** and **simply-js point reduction** included.
 
----
-
-```markdown
 # 🎨 CollabBoard — Real-Time Collaborative Drawing Board
 
 A **real-time collaborative whiteboard** where multiple users can draw, annotate, and brainstorm together on a shared canvas — with changes synced instantly across all connected devices.  
