@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Additional custom styles */
+.canvas-container {
+  cursor: crosshair;
+}
+
+.canvas-container.text-tool {
+  cursor: text;
+}
+
+.canvas-container.fill-tool {
+  cursor: pointer;
+}
+
+/* Loading animation */
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin {
+  animation: spin 1s linear infinite;
+}
