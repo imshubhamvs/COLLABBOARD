@@ -149,13 +149,3 @@ Open multiple tabs or devices and join the same room ID to test collaboration.
 * Export board as PDF/PNG.
 
 
----
-
-This version now clearly shows:
-- **Persistent stroke storage** with gzip.
-- **Stroke simplification** with simply-js.
-- **Optimization benefits** for performance.
-
-
-Do you want me to create that diagram?
-```
